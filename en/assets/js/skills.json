@@ -1,0 +1,140 @@
+{
+   "skills":[
+      {
+         "category":"Cloud",
+         "items":[
+            {
+               "name":"Amazon Web Services (AWS)"
+            },
+            {
+               "name":"Terraform",
+               "certifications":[
+                  "./assets/images/certifications/hashicorp-certified-terraform-associate-002.png"
+               ]
+            }
+         ]
+      },
+      {
+         "category":"DevOps and Automation",
+         "items":[
+            {
+               "name":"Kubernetes",
+               "certifications":[
+                  "./assets/images/certifications/kcna-kubernetes-and-cloud-native-associate.png",
+                  "./assets/images/certifications/cka-certified-kubernetes-administrator.png",
+                  "./assets/images/certifications/ckad-certified-kubernetes-application-developer.png"
+               ]
+            },
+            {
+               "name":"Docker"
+            },
+            {
+               "name":"Helm",
+               "certifications":[
+                  "./assets/images/certifications/ckad-certified-kubernetes-application-developer.png"
+               ]
+            },
+            {
+               "name":"ArgoCD"
+            },
+            {
+               "name":"Flux2"
+            },
+            {
+               "name":"GitLab"
+            },
+            {
+               "name":"Jenkins"
+            },
+            {
+               "name":"GitHub"
+        
+            },
+            {
+               "name":"Continuous Integration und Continuous Delivery (CI/CD)"
+            },
+            {
+               "name":"Git"
+            }
+         ]
+      },
+      {
+         "category":"Programming Languages and Technologies",
+         "items":[
+            {
+               "name":"Node.js"
+            },
+            {
+               "name":"PHP"
+            },
+            {
+               "name":"Go"
+            },
+            {
+               "name":"Python"
+            },
+            {
+               "name":"Angular"
+            },
+            {
+               "name":"Java"
+            },
+            {
+               "name":"REST APIs"
+            }
+         ]
+      },
+      {
+         "category":"Security and Monitoring",
+         "items":[
+   
+            {
+               "name":"AWS Security",
+               "certifications":[
+                  "./assets/images/certifications/aws-certified-security-specialty.png"
+               ]
+            },
+            {
+               "name":"Datadog",
+               "certifications":[
+                  "./assets/images/certifications/datadog-fundamentals-i.png"
+               ]
+            },
+            {
+               "name":"Sonarqube"
+            }
+         ]
+      },
+      {
+         "category":"Documentation",
+         "items":[
+            {
+               "name":"Arc42"
+            },
+            {
+               "name":"PlantUML"
+            },
+            {
+               "name":"Draw.io"
+            }
+         ]
+      },
+      {
+         "category":"Development Processes",
+         "items":[
+            {
+               "name":"Agile Methods"
+            },
+            {
+               "name":"Scrum",
+               "certifications":[
+                  "./assets/images/certifications/professional-scrum-master-i-psm-i.png"
+               ]
+            },
+            {
+               "name":"Requirements Engineering"
+            }
+         ]
+      }
+   ]
+}
