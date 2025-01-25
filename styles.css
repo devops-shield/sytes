@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #282c34; /* Темный фон, характерный для DevOps */
+    background-color: #121212; /* Темный фон, характерный для DevOps */
     overflow: hidden; /* Скрываем прокрутку, если она появляется */
 }
 
