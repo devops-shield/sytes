@@ -1,0 +1,236 @@
+[
+  {
+    "validation_url": "https://www.cloudskillsboost.google/public_profiles/b2684ffe-b23d-4bb6-9151-ab45d0e294f6/badges/11213713",
+    "img_url": "./assets/images/certifications/sre.png",
+    "img_alt": "Site Reliability Engineering: Measuring and Managing Reliability Site Reliability Engineering: Measuring and Managing Reliability",
+    "project_title": "Site Reliability Engineering: Measuring and Managing Reliability Site Reliability Engineering: Measuring and Managing Reliability",
+    "project_category": "Cloud",
+    "data_category": "cloud",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/df6efad2-7039-4c4c-b0f8-e5bba2ed39eb",
+    "img_url": "./assets/images/certifications/LFEL1009:_Getting_Started_with_OpenTofu.png",
+    "img_alt": "LFEL1009: Getting Started with OpenTofu",
+    "project_title": "LFEL1009: Getting Started with OpenTofu",
+    "project_category": "Cloud",
+    "data_category": "cloud",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/a659da82-cfa1-4cfd-8cad-4c0c0466d11e/public_url",
+    "img_url": "./assets/images/certifications/LFS148_Getting_Started_with_OpenTelemetry.png",
+    "img_alt": "LFS148: Getting Started with OpenTelemetry",
+    "project_title": "LFS148: Getting Started with OpenTelemetry",
+    "project_category": "Monitoring | Cloud",
+    "data_category": "monitoring",
+    "data_category_second": "cloud"
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/304c5c79-33b8-4383-ba5f-d7507dbdb910/public_url",
+    "img_url": "./assets/images/certifications/LFC108_Cybersecurity_Essentials.png",
+    "img_alt": " LFC108: Cybersecurity Essentials",
+    "project_title": "LFC108: Cybersecurity Essentials",
+    "project_category": "Security",
+    "data_category": "security",
+    "data_category_second": "security"
+  },  
+  {
+    "validation_url": "https://www.credly.com/badges/94ec5ac2-8bf9-47be-a963-6c62e32ee855/public_url",
+    "img_url": "./assets/images/certifications/SKF100_OWASP.png",
+    "img_alt": "SKF100: Understanding the OWASP® Top 10 Security Threats",
+    "project_title": "SKF100: Understanding the OWASP® Top 10 Security Threats",
+    "project_category": "Security",
+    "data_category": "security",
+    "data_category_second": "security"
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/3608f074-6357-4f56-8bee-cbcd0fefcc77/public_url",
+    "img_url": "./assets/images/certifications/LFS169_Introduction_to_GitOps.png",
+    "img_alt": "LFS169: Introduction to GitOps",
+    "project_title": "LFS169: Introduction to GitOps",
+    "project_category": "Devops",
+    "data_category": "devops",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/e33a5e46-e08b-4d74-94b5-f00a4f3a9d9b/public_url",
+    "img_url": "./assets/images/certifications/LFS167_Introduction_to_Jenkins.png",
+    "img_alt": "LFS167: Introduction to Jenkins",
+    "project_title": "LFS167: Introduction to Jenkins",
+    "project_category": "DevOps",
+    "data_category": "devops",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/ee0ae201-e28c-4a77-8729-85b44fba0838/public_url",
+    "img_url": "./assets/images/certifications/Nirmata_Fundamentals_Certified_for_Kyverno.png",
+    "img_alt": "Fundamentals for Kyverno",
+    "project_title": "Fundamentals for Kyverno",
+    "project_category": "Security",
+    "data_category": "security",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks/public_url",
+    "img_url": "./assets/images/certifications/AWS_Knowledge_Amazon_EKS.png",
+    "img_alt": "AWS Knowledge: Amazon EKS",
+    "project_title": "AWS Knowledge: Amazon EKS",
+    "project_category": "Cloud | Amazon Web Service",
+    "data_category": "aws",
+    "data_category_second": "cloud"
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/78eb9d5b-9460-49ef-9431-3d98f63d67b0/public_url",
+    "img_url": "./assets/images/certifications/LFS258_Kubernetes_Fundamentals.png",
+    "img_alt": "LFS258_Kubernetes_Fundamentals",
+    "project_title": "LFS258_Kubernetes_Fundamentals",
+    "project_category": "Kubernetes",
+    "data_category": "kubernetes",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/48540782-0e58-4fe8-8d67-53f255bbe411/public_url",
+    "img_url": "./assets/images/certifications/LFS147_Introduction_to_AI_ML_Toolkits_with_Kubeflow.png",
+    "img_alt": "LFS147: Introduction to AI/ML Toolkits with Kubeflow",
+    "project_title": "LFS147: Introduction to AI/ML Toolkits with Kubeflow",
+    "project_category": "Kubernetes",
+    "data_category": "kubernetes",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/12505121-d026-4309-9bb4-decb17ea03d0/public_url",
+    "img_url": "./assets/images/certifications/cka-certified-kubernetes-administrator.png",
+    "img_alt": "cka-certified-kubernetes-administrator",
+    "project_title": "CKA: Certified Kubernetes Administrator",
+    "project_category": "Kubernetes",
+    "data_category": "kubernetes",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/org/the-linux-foundation/badge/ckad-certified-kubernetes-application-developer",
+    "img_url": "./assets/images/certifications/ckad-certified-kubernetes-application-developer.png",
+    "img_alt": "ckad-certified-kubernetes-application-developer",
+    "project_title": "CKAD: Certified Kubernetes Application Developer",
+    "project_category": "Kubernetes",
+    "data_category": "kubernetes",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/ccad796e-0594-4b78-a984-80059799cdc2/public_url",
+    "img_url": "./assets/images/certifications/Cilium_Getting_Started.png",
+    "img_alt": "Cilium Getting Started",
+    "project_title": "Cilium Getting Started",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/671ac0d9-5099-41ea-ab3d-f7a760bb85c7/public_url",
+    "img_url": "./assets/images/certifications/Cilium_Ingress_Controller.png",
+    "img_alt": "Cilium Ingress Controller",
+    "project_title": "Cilium Ingress Controller",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/2aa6cc08-46f0-4337-945a-77e601da6a19/public_url",
+    "img_url": "./assets/images/certifications/Cilium_Cluster_Mesh.png",
+    "img_alt": "Cilium Cluster Mesh",
+    "project_title": "Cilium Cluster Mesh",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/bfeb7e89-eb56-441f-b55d-78b937033968/public_url",
+    "img_url": "./assets/images/certifications/Cilium_IPv6_Networking_and_Observability.png",
+    "img_alt": "Cilium IPv6 Networking and Observability",
+    "project_title": "Cilium IPv6 Networking and Observability",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/f4d362c5-5c3f-4c34-a82d-07ced8835db2/public_url",
+    "img_url": "./assets/images/certifications/Cilium_Flow_Encryption.png",
+    "img_alt": "Cilium Flow Encryption",
+    "project_title": "Cilium Flow Encryption",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/047fde94-972d-4e0b-9784-895e7980f4bf/public_url",
+    "img_url": "./assets/images/certifications/Cilium_Mutual_Authentication.png",
+    "img_alt": "Cilium Mutual Authentication",
+    "project_title": "Cilium Mutual Authentication",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/123c3817-4e17-4a41-ac80-621b61fe2748/public_url",
+    "img_url": "./assets/images/certifications/Cilium_Network_Policies.png",
+    "img_alt": "Cilium Network Policies",
+    "project_title": "Cilium Network Policies",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/f6d53f75-654e-4cf1-902b-ea24bdc334e2/public_url",
+    "img_url": "./assets/images/certifications/Tetragon_Getting_Started.png",
+    "img_alt": "Tetragon Getting Started",
+    "project_title": "Tetragon Getting Started",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/16b9b325-f45f-48fa-9e20-af2f94478da1/public_url",
+    "img_url": "./assets/images/certifications/Cilium_LoadBalancer_IPAM_and_BGP_Service_Advertisement.png",
+    "img_alt": "Cilium LoadBalancer IPAM and BGP Service Advertisement",
+    "project_title": "Cilium LoadBalancer IPAM and BGP Service Advertisement",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/9f2970fc-f7fa-4d80-844e-3bf35c75c664/public_url",
+    "img_url": "./assets/images/certifications/Cilium_Host_Firewall.png",
+    "img_alt": "Cilium Host Firewall",
+    "project_title": "Cilium Host Firewall",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/4e8625f0-8e6a-416b-a496-512fc44293fa/public_url",
+    "img_url": "./assets/images/certifications/LFS146_Introduction_to_Cilium.png",
+    "img_alt": "LFS146: Introduction to Cilium",
+    "project_title": "LFS146: Introduction to Cilium",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://courses.academy.tigera.io/certificates/df574b6ae9b84e0fbd31e86b787c0af0",
+    "img_url": "./assets/images/certifications/Certified_Calico_Operator_Level_1.png",
+    "img_alt": "Certified Calico Operator: Level 1",
+    "project_title": "Certified Calico Operator: Level 1",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  },
+  {
+    "validation_url": "https://www.credly.com/badges/0c7d8df4-f8ab-4ea1-99c2-738eed24aa56/public_url",
+    "img_url": "./assets/images/certifications/LFS144_Introduction_to_Istio.png",
+    "img_alt": "LFS144: Introduction to Istio",
+    "project_title": "LFS144: Introduction to Istio",
+    "project_category": "Network",
+    "data_category": "network",
+    "data_category_second": ""
+  }
+]
