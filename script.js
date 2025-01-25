@@ -12,7 +12,7 @@ document.getElementById('lang-ru').addEventListener('click', function() {
     // Устанавливаем активную кнопку
     setActiveButton('ru');
     // Перенаправление на русскоязычный сайт
-    window.location.href = "https://example.ru"; // Замените на нужный URL
+    window.location.href = "https://devops-shield.sytes.net/ru/"; // Замените на нужный URL
 });
 
 // Функция для установки активной кнопки
