@@ -5,7 +5,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #121212; /* Темный фон, характерный для DevOps */
     overflow: hidden; /* Скрываем прокрутку, если она появляется */
 }
 
@@ -54,7 +53,7 @@ body {
     color: #000; /* Цвет текста таймера */
 }
 
-/* Фон в стиле знака бесконечности */
+/* Фон в стиле DevOps с SVG-анимацией */
 body::before {
     content: '';
     position: absolute;
@@ -62,8 +61,10 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path d="M400 300c-66.3 0-120 53.7-120 120s53.7 120 120 120 120-53.7 120-120-53.7-120-120-120zm0 240c-66.3 0-120-53.7-120-120s53.7-120 120-120 120 53.7 120 120-53.7 120-120 120z" fill="%23f39c12" opacity="0.2"/><path d="M400 300c-66.3 0-120 53.7-120 120s53.7 120 120 120 120-53.7 120-120-53.7-120-120-120z" fill="%23e74c3c" opacity="0.2" transform="translate(160,0)"/><path d="M400 300c-66.3 0-120 53.7-120 120s53.7 120 120 120 120-53.7 120-120-53.7-120-120-120z" fill="%23f39c12" opacity="0.2" transform="translate(-160,0)"/></svg>');
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><style>.cloud { fill: #fff; opacity: 0.8; }</style></defs><g transform="translate(0, 0)"><path class="cloud" d="M200 300c-30 0-60-20-60-50s30-50 60-50c10 0 20 0 30 5 0-30 20-50 50-50s50 20 50 50c30 0 50 20 50 50s-20 50-50 50c-10 0-20 0-30-5-10 30-40 50-70 50z"/><animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="100 0" dur="10s" repeatCount="indefinite" /></g></svg>'); /* SVG с облаками */
+    background-size: cover; /* Заполнение фона */
+    background-position: center; /* Центрирование фона */
     z-index: 0; /* Убедитесь, что фон ниже контейнера */
-    opacity: 0.1; /* Полупрозрачность фона */
+    opacity: 0.5; /* Полупрозрачность фона */
 }
 
