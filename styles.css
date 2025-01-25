@@ -5,11 +5,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f8f8f8; /* Цвет фона для лучшей видимости */
+    background-color: #282c34; /* Темный фон, характерный для DevOps */
 }
 
 .container {
     text-align: center; /* Центрирование текста */
+    background: linear-gradient(135deg, #61dafb, #282c34); /* Градиентный фон */
+    border-radius: 10px; /* Закругление углов */
+    padding: 20px; /* Отступы внутри контейнера */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Тень для создания глубины */
 }
 
 .language-switcher {
@@ -18,7 +22,7 @@ body {
 }
 
 .flag-button {
-    background-color: #ccc;
+    background-color: #4CAF50; /* Цвет фона для кнопок */
     border: none;
     border-radius: 5px;
     padding: 10px;
@@ -27,11 +31,11 @@ body {
     display: flex;
     align-items: center;
     transition: background-color 0.3s;
+    color: white; /* Цвет текста */
 }
 
 .flag-button.active {
-    background-color: #4CAF50; /* Цвет фона для активной кнопки */
-    color: white;
+    background-color: #3e8e41; /* Более темный цвет для активной кнопки */
 }
 
 .flag-button svg {
@@ -39,10 +43,11 @@ body {
 }
 
 .flag-button:hover {
-    background-color: #ddd; /* Цвет фона при наведении */
+    background-color: #45a049; /* Цвет фона при наведении */
 }
 
 #timer {
     margin-top: 20px; /* Отступ сверху для таймера */
+    color: #ffffff; /* Цвет текста таймера */
 }
 

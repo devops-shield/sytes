@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f8f8; /* Цвет фона для лучшей видимости */
+}
+
+.container {
+    text-align: center; /* Центрирование текста */
+}
+
+.language-switcher {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.flag-button {
+    background-color: #ccc;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s;
+}
+
+.flag-button.active {
+    background-color: #4CAF50; /* Цвет фона для активной кнопки */
+    color: white;
+}
+
+.flag-button svg {
+    margin-right: 5px; /* Отступ между флагом и текстом */
+}
+
+.flag-button:hover {
+    background-color: #ddd; /* Цвет фона при наведении */
+}
+
+#timer {
+    margin-top: 20px; /* Отступ сверху для таймера */
+}
+
